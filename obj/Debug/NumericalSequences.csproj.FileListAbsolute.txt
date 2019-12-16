@@ -1,0 +1,12 @@
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\NumericalSequences.exe.config
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\NumericalSequences.exe
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\NumericalSequences.pdb
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\obj\Debug\NumericalSequences.csprojAssemblyReference.cache
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\obj\Debug\NumericalSequences.exe
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\obj\Debug\NumericalSequences.pdb
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\Serilog.dll
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\Serilog.Sinks.File.dll
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\Serilog.xml
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\Serilog.Sinks.File.pdb
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\bin\Debug\Serilog.Sinks.File.xml
+C:\C# .Net\ElementaryTasks\NumericalSequences\NumericalSequences\obj\Debug\NumericalSequences.csproj.CopyComplete
