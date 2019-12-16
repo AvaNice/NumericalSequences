@@ -49,10 +49,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="INaturalNumbersSquareless.cs" />
+    <Compile Include="INumbersSequence.cs" />
     <Compile Include="ISequenceUI.cs" />
     <Compile Include="NaturalNumbersSquareLess.cs" />
-    <Compile Include="NaturalNumbersSquarelessApp.cs" />
+    <Compile Include="NaturalNumbersSquareLessApp1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SequenceUI.cs" />

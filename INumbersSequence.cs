@@ -1,6 +1,6 @@
 ﻿namespace NumericalSequences
 {
-    interface INaturalNumbersSquareless
+    interface INumbersSequence
     {
         int Length { get; }
 

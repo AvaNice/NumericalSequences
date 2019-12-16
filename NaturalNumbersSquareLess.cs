@@ -2,7 +2,7 @@
 
 namespace NumericalSequences
 {
-    class NaturalNumbersSquareLess : INaturalNumbersSquareless
+    class NaturalNumbersSquareLess : INumbersSequence
     {
         public int Length { get; }
 

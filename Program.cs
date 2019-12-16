@@ -12,7 +12,7 @@ namespace NumericalSequences
 
             int userNumber;
             ISequenceUI userInterface = new SequenceUI();
-            var app = new NaturalNumbersSquarelessApp(userInterface);
+            var app = new NaturalNumbersSquareLessApp(userInterface);
 
             if (args.Length > 1)
             {

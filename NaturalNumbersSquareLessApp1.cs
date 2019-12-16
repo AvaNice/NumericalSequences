@@ -1,17 +1,17 @@
 ﻿namespace NumericalSequences
 {
-    class NaturalNumbersSquarelessApp
+    class NaturalNumbersSquareLessApp
     {
-        private ISequenceUI _userInterface;
+        private readonly ISequenceUI _userInterface;
 
-        public NaturalNumbersSquarelessApp(ISequenceUI userInterface)
+        public NaturalNumbersSquareLessApp(ISequenceUI userInterface)
         {
             _userInterface = userInterface;
         }
 
         public void RunApp(int number)
         {
-            INaturalNumbersSquareless seq = new NaturalNumbersSquareLess(number);
+            INumbersSequence seq = new NaturalNumbersSquareLess(number);
 
             for (int index = 0; index < seq.Length; index++)
             {
